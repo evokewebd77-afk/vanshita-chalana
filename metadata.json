@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cyber Guard - Complete Security Scanning Platform",
+  "description": "Comprehensive cyber security scanning platform for web and mobile applications featuring CWE Top 25 detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
